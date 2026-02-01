@@ -33,7 +33,7 @@ pushMatrix() / translate() による座標管理
 状態フラグによる明確な状態遷移設計
 
 
-🛠 Tech Stack
+Tech Stack
 
 Language: Processing (Java)
 Concepts:
