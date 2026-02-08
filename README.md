@@ -2,15 +2,15 @@
 プログラミング作品ポートフォリオ
 1. Tully's Coffee ロゴ模写
 企業ロゴをProcessingで再現した作品。図形描画とレイヤー制御により、幾何学的なデザインを忠実に再現しました。
-技術要素
 
+技術要素
 rect() と for 文による縞模様の生成
 ellipse()・noFill()・strokeWeight() による楕円マスキング
 描画順序制御によるレイヤー構造の実装
 テキストサイズの階層化による視覚的再現
 
 
-2. 星のカービィ – インタラクティブアニメーション
+3. 星のカービィ – インタラクティブアニメーション
 マウス操作に反応するキャラクターアニメーション。ゲーム的な動作ロジックと視覚効果を実装。
 実装機能
 
@@ -33,18 +33,3 @@ pushMatrix() / translate() による座標管理
 状態フラグによる明確な状態遷移設計
 
 
-Tech Stack
-
-Language: Processing (Java)
-Concepts:
-
-Object-Oriented Programming
-Event-driven programming
-Animation loop control
-Geometry & Trigonometry
-
-
-
-
- Summary
-グラフィックス基礎からインタラクティブ処理、オブジェクト指向設計まで段階的に実装。視覚表現とコード構造の両立を意識して制作しています。
