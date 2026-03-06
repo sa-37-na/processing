@@ -1,4 +1,6 @@
 # Processing Portfolio
+## 使用言語
+- Processing (Javaベース)
 
 Processingを用いて作成したグラフィック作品のポートフォリオです。
 
